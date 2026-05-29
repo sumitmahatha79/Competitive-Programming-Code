@@ -1,0 +1,1 @@
+{"name":"Local: 110qn","url":"/Users/sumitkumar/Desktop/codeforces/cp31/110qn.cpp","tests":[{"id":1767382816008,"input":"6 180\n90 80 70 60 50 100\n","output":"2"},{"id":1767417721520,"input":"8 4\n1 3 2 9 8 7 3 2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sumitkumar/Desktop/codeforces/cp31/110qn.cpp","group":"local","local":true}

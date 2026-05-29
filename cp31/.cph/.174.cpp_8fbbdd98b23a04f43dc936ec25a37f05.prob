@@ -1,0 +1,1 @@
+{"name":"Local: 174","url":"/Users/sumitkumar/Desktop/codeforces/cp31/174.cpp","tests":[{"id":1770877306320,"input":"3\n1\n18\n998244360\n","output":"0\n10\n10\n"},{"id":1770877875839,"input":"1\n9","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sumitkumar/Desktop/codeforces/cp31/174.cpp","group":"local","local":true}

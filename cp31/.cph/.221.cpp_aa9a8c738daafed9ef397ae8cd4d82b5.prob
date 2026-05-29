@@ -1,0 +1,1 @@
+{"name":"Local: 221","url":"/Users/sumitkumar/Desktop/codeforces/cp31/221.cpp","tests":[{"id":1773243298036,"input":"1\n5\n3 0 0 -2 0 -2 0 0 -2 -2","output":"-2 0 0 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sumitkumar/Desktop/codeforces/cp31/221.cpp","group":"local","local":true}

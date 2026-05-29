@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build C++",
+            "type": "shell",
+            "command": "clang++",
+            "args": [
+                "-std=c++17",
+                "main.cpp",
+                "-o", "main",
+                "-Wall",
+                "-Wextra"
+            ],
+            "group": "build",
+            "problemMatcher": "$gcc"
+        }
+    ]
+}

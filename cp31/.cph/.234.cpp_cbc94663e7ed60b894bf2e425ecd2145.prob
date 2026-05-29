@@ -1,0 +1,1 @@
+{"name":"Local: 234","url":"/Users/sumitkumar/Desktop/codeforces/cp31/234.cpp","tests":[{"id":1773830792428,"input":"7\n12\n1\n2\n3\n1434\n2024\n200000\n","output":"51\n1\n3\n6\n18465\n28170\n4600002\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sumitkumar/Desktop/codeforces/cp31/234.cpp","group":"local","local":true}

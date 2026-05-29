@@ -1,0 +1,1 @@
+{"name":"Local: qn38","url":"/Users/sumitkumar/Desktop/codeforces/800rated/qn38.cpp","tests":[{"id":1761078054822,"input":"3\n6\n2 2 1 2 1 2\n3\n1 2 1\n4\n1 1 1 1\n","output":"2\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sumitkumar/Desktop/codeforces/800rated/qn38.cpp","group":"local","local":true}
